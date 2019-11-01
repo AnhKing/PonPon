@@ -1,3 +1,3 @@
 # PonPon
-Test Project
-Hello, Learning new things is fun!
+this is a new message
+how is the weather?
